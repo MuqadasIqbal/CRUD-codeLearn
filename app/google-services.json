@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34726292151",
+    "project_id": "crudoperation-ffaa2",
+    "storage_bucket": "crudoperation-ffaa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34726292151:android:6a9ed9ead0d0abf7ac3b32",
+        "android_client_info": {
+          "package_name": "com.example.codelearningp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34726292151-1c77bk1sgclvc852bcm8ae7dlkf0110h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw7Dyxu8pv48WgzTv9dELGpyb2THIu-Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34726292151-1c77bk1sgclvc852bcm8ae7dlkf0110h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
